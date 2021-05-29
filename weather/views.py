@@ -8,9 +8,9 @@ from django.views.decorators.csrf import csrf_exempt
 
 def get_city_weather(city=None, lat=None, lon=None):
 
-    data = YahooWeather(APP_ID='540Igak1',
-                        api_key='dj0yJmk9TWV2bExTT2N3TmE2JmQ9WVdrOU5UUXdTV2RoYXpFbWNHbzlNQT09JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTJj',
-                        api_secret='0f59477b33dbbfd2887d0e4ba68d8ce36bf443aa')
+    data = YahooWeather(APP_ID=app_ID,
+                        api_key=consumer_key,
+                        api_secret=consumer_secret)
     if city:
         weather = data.get_yahoo_weather_by_city(city, Unit.celsius)
     else:
