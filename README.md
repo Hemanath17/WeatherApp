@@ -9,6 +9,7 @@ Django framework will enable the web application which will interact with the Ya
 For more Details - https://docs.djangoproject.com/en/3.2/
 
 YAHOO API - https://developer.yahoo.com/weather/
+
 There were pretty huge weather based API tools which we could use but the Yahoo Weather API will enable the user to look for past 10 days of weather on that specific place for any other statistical resources.
 
 ## Heroku
