@@ -17,3 +17,9 @@ There were pretty huge weather based API tools which we could use but the Yahoo 
 Heroku is a cloud platform as a service supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go. 
 
 Heroku will deploy the weather API into web based application.
+
+![](ss1.png)
+
+![](ss2.png)
+
+![](ss3.png)
