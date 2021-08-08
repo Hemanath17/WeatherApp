@@ -2,6 +2,12 @@
 
 Weather Application is an external API integrated web application which can allow the users to check for weather for a certain location.
 
+Deployment - http://hemanath.pythonanywhere.com/
+
+Note: After 08 Nov this site won't be reached
+
+Learned from tutorial - https://youtu.be/Y4c4ickks2A
+
 
 ## Django
 
